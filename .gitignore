@@ -1,0 +1,9 @@
+bin/
+
+allegro/
+
+.idea/
+
+*.o
+*.obj
+*.exe
